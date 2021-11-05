@@ -1,0 +1,45 @@
+.fit
+{
+    max-height: 100%;
+    max-width: 100%;
+}
+.header
+{
+    height:50px;
+    padding: 12px;
+    margin-bottom: 10px;
+    border : 2px solid black;
+}
+.headerright
+{
+    max-width: 50%;
+    float:right; 
+}
+
+.locdrop
+{
+    max-width:40%;
+    float:right;
+}
+
+.loclogo
+{
+    max-width:3%;
+    float: right;
+}
+
+.welcomemsg
+{
+    max-width:50%;
+    float:right;
+    text-align: center;
+}
+
+
+.title
+{
+    max-width: 20%;
+    color:grey;
+    font-weight: bold;
+    float:left;
+}

@@ -1,0 +1,15 @@
+.outer
+{
+    max-width:50%;
+    margin:auto;
+    border:solid 3px darkblue;
+    border-radius: 5px;
+}
+
+.bstitle
+{
+    background:darkblue;
+    color:white;
+    padding:5px;
+}
+

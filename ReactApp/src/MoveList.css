@@ -1,0 +1,26 @@
+.container
+{
+    max-width:80%;
+    margin:auto;
+    border:5px solid rgb(33, 11, 73);
+    padding:0px;
+    overflow:auto;
+}
+
+.movielistheader
+{
+    background-color: rgb(33, 11, 73);
+    color: white;
+}
+
+.filter
+{
+    max-width:90%;
+    margin:auto;
+    height:45px;
+}
+.movielist
+{
+    max-width:90%;
+    margin:auto;
+}

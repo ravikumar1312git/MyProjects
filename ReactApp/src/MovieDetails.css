@@ -1,0 +1,23 @@
+.main
+{
+    max-width:80%;
+    margin:auto;
+}
+
+.moviedetails
+{
+    max-width:40%;
+    margin:5px;
+    border: solid 2px darkblue;
+    float:left;
+    border-radius:5px;
+}
+
+.theaterdetails
+{
+    max-width:40%;
+    margin:5px;
+    border: solid 2px darkblue;
+    float:left;
+    border-radius:5px;
+}

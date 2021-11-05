@@ -1,0 +1,136 @@
+{
+	"users": [
+		{
+			"username": "ravi",
+			"password": "t1rk"
+		},
+		{
+			"username": "ashok",
+			"password": "t1ak"
+		}
+	],
+	"movies": [
+		{
+			"name": "Master",
+			"language": "Tamil",
+			"twoorthreeD": "2D",
+			"rating": "5",
+			"imgSrc": "master.jpg",
+			"location": "chennai"
+		},
+		{
+			"name": "Batman",
+			"language": "English",
+			"twoorthreeD": "3D",
+			"rating": "4",
+			"imgSrc": "batman.png",
+			"location": "chennai"
+		},
+		{
+			"name": "Premam",
+			"language": "Malayalam",
+			"twoorthreeD": "2D",
+			"rating": "3",
+			"imgSrc": "premam.jpg",
+			"location": "chennai"
+		},
+		{
+			"name": "KGF",
+			"language": "Kannada",
+			"twoorthreeD": "2D",
+			"rating": "5",
+			"imgSrc": "kgf.jpg",
+			"location": "bengaluru"
+		},
+		{
+			"name": "Tenet",
+			"language": "English",
+			"twoorthreeD": "3D",
+			"rating": "4",
+			"imgSrc": "tenet.jpg",
+			"location": "bengaluru"
+		},
+		{
+			"name": "Surarai Potru",
+			"language": "Tamil",
+			"twoorthreeD": "2D",
+			"rating": "3",
+			"imgSrc": "suraraipotru.jpg",
+			"location": "bengaluru"
+		},
+		{
+			"name": "Dil Bechara",
+			"language": "Hindi",
+			"twoorthreeD": "2D",
+			"rating": "3",
+			"imgSrc": "dilbechara.jpg",
+			"location": "chandigarh"
+		}
+	],
+	"Chandigar-theater": {
+		"location": "chandigarh",
+		"dates": [
+			"11-Oct-2020",
+			"12-Oct-2020",
+			"13-Oct-2020"
+		],
+		"time": [
+			"10 AM",
+			"2 PM",
+			"6 PM",
+			"10 PM"
+		],
+		"price": [
+			"120",
+			"80"
+		],
+		"theaters": [
+			"PVR chandigar",
+			"BigCinema chandigar"
+		]
+	},
+	"Chennai-theater": {
+		"location": "chennai",
+		"dates": [
+			"14-Oct-2020",
+			"15-Oct-2020",
+			"16-Oct-2020"
+		],
+		"time": [
+			"9 AM",
+			"1 PM",
+			"5 PM",
+			"9 PM"
+		],
+		"price": [
+			"200",
+			"120"
+		],
+		"theaters": [
+			"Mayajal, Thambaram",
+			"PVR, Vadapalani Forum"
+		]
+	},
+	"Bengaluru-theater": {
+		"location": "bengaluru",
+		"dates": [
+			"11-Oct-2020",
+			"12-Oct-2020",
+			"13-Oct-2020"
+		],
+		"time": [
+			"10 AM",
+			"2 PM",
+			"6 PM",
+			"10 PM"
+		],
+		"price": [
+			"300",
+			"200"
+		],
+		"theaters": [
+			"Sri Krishna, Bommanahalli",
+			"Innovative Mutiplex, Marathahalli"
+		]
+	}
+}
