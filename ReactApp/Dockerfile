@@ -1,5 +1,5 @@
 FROM node:alpine
 WORKDIR /app
-ENV setpath
+COPY . .
 RUN npm install
-CMD ["npm","start"]
+CMD ["npm", "start"]
