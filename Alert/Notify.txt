@@ -1,0 +1,2 @@
+cd C:\Ravi\WorkSpace\Alert\bin\
+java Notify

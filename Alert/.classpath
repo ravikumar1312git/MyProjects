@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/http_lib/httpclient-4.5.2.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_79">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/http_lib/commons-codec-1.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/http_lib/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/http_lib/fluent-hc-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/http_lib/httpclient-cache-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/http_lib/httpclient-win-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/http_lib/httpcore-4.4.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/http_lib/httpmime-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/http_lib/jna-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/http_lib/jna-platform-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/sac.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/commons-lang3-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/commons-io-2.5/commons-io-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/commons-io-2.5/commons-io-2.5-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/commons-collections-3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/htmlunit-core-js-2.5.jar" sourcepath="C:/Ravi/Imp Jars/htmlunit-core-js-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/xerces-2_6_2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/htmlunit-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/commons-httpclient-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/commons-lang-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/nekohtml-1.9.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/xalan-2.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Ravi/Imp Jars/cssparser-0.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jars/jlayer-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Ravi/alert_App/cssparser-0-9-4-fs.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
